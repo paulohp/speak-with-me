@@ -1,0 +1,14 @@
+{
+  "name": "speak-with-arduino",
+  "version": "0.0.0",
+  "description": "Fale que eu te escuto. by arduino.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Paulo Pires",
+  "license": "MIT",
+  "dependencies": {
+    "speakable": "^0.3.0"
+  }
+}
